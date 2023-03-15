@@ -37,7 +37,7 @@ export default function FormInputs({ inputs, setInputs }) {
         currentLocation={true}
         currentLocationLabel="Current location"
         query={{
-          key: "AIzaSyBe-0_rv6eEL5KAmmY-WV-5C-z4Wc4bFo4",
+          key: "YOUR-API-KEY",
           language: "de",
           components: "country:ch",
         }}
